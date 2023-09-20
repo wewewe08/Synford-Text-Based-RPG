@@ -1,5 +1,5 @@
 # Synford Text-Based RPG
-- An old incomplete project that I started on 12/20/22.
+- An old incomplete project that I started in 12/20/22.
 - The storyline is based around the *nether star* from Minecraft.
 - Game is ran completely in the terminal.
 
