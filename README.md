@@ -10,7 +10,7 @@
 
 - Turn-based combat.
 
-![ezgif com-video-to-gif (3)](https://github.com/wewewe08/Synford-Text-Based-RPG/assets/31106392/e2eb9273-c42a-49b6-a9b2-e3711953b861)
+![ezgif com-video-to-gif](https://github.com/wewewe08/Synford-Text-Based-RPG/assets/31106392/b41cf945-cb70-4c3e-9484-d4abe511f231)
 
 - Traveling merchant.
 
@@ -18,4 +18,4 @@
 
 - Functional inventory.
 
-![ezgif com-video-to-gif](https://github.com/wewewe08/Synford-Text-Based-RPG/assets/31106392/b41cf945-cb70-4c3e-9484-d4abe511f231)
+![ezgif com-video-to-gif (2)](https://github.com/wewewe08/Synford-Text-Based-RPG/assets/31106392/786b4fc9-5599-42cd-877c-80b37e17246c)
