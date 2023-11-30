@@ -5,6 +5,7 @@
 
 # How to Play
 - Download this repository as a ZIP file
+- Extract the files to a new folder
 - Run the .exe file titled "Synford_Build0.4_INCOMPLETE.exe"
 
 # Features
