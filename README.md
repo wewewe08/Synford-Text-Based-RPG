@@ -3,6 +3,10 @@
 - The storyline is based around the *nether star* from Minecraft.
 - Game is ran completely in the terminal.
 
+# How to Play
+- Download this repository as a ZIP file
+- Run the .exe file titled "Synford_Build0.4_INCOMPLETE.exe"
+
 # Features
 - Functional main menu screen UI with arrow keys.
 
